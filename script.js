@@ -1,3 +1,4 @@
+
 const year = document.querySelector("#year");
 const header = document.querySelector(".site-header");
 const navLinks = document.querySelectorAll(".nav-links a");
